@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom post type sticky\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-23 11:03+0000\n"
+"PO-Revision-Date: 2019-06-23 11:04+0000\n"
+"Last-Translator: admin <ghawyy@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: custom-post-type-sticky.php:36
+msgid "Stick this post to the front page"
+msgstr "جعل المقاله مثبته فى الصفحة الرئيسية"
+
+#: custom-post-type-sticky.php:37
+msgid "Public, Sticky"
+msgstr "عام ,مثبت"
+
+#: custom-post-type-sticky.php:53
+msgid "Make this post sticky"
+msgstr "تثبيت المقالة"
+
+#: custom-post-type-sticky.php:54
+msgid "Sticky"
+msgstr "مثبت"
+
+#. Name of the plugin
+msgid "Custom post type sticky"
+msgstr "تثبيت المقالات المخصصه"
+
+#. Description of the plugin
+msgid "This plugin Add Feature to Make custom post type sticky."
+msgstr "هذه الإضافه تضيف ميزه تثبيت المقالات المخصصه"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/cpt_sticky/"
+msgstr "https://wordpress.org/plugins/cpt_sticky/"
+
+#. Author of the plugin
+msgid "Abhay Yadav"
+msgstr "Abhay Yadav"
+
+#. Author URI of the plugin
+msgid "http://abhayyadav.com"
+msgstr "http://abhayyadav.com"

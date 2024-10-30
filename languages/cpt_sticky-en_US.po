@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom post type sticky\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-23 11:03+0000\n"
+"PO-Revision-Date: 2019-06-23 11:04+0000\n"
+"Last-Translator: admin <ghawyy@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: custom-post-type-sticky.php:36
+msgid "Stick this post to the front page"
+msgstr "Stick this post to the front page"
+
+#: custom-post-type-sticky.php:37
+msgid "Public, Sticky"
+msgstr "Public, Sticky"
+
+#: custom-post-type-sticky.php:53
+msgid "Make this post sticky"
+msgstr "Make this post sticky"
+
+#: custom-post-type-sticky.php:54
+msgid "Sticky"
+msgstr "Sticky"
+
+#. Name of the plugin
+msgid "Custom post type sticky"
+msgstr "Custom post type sticky"
+
+#. Description of the plugin
+msgid "This plugin Add Feature to Make custom post type sticky."
+msgstr "This plugin Add Feature to Make custom post type sticky."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/cpt_sticky/"
+msgstr "https://wordpress.org/plugins/cpt_sticky/"
+
+#. Author of the plugin
+msgid "Abhay Yadav"
+msgstr "Abhay Yadav"
+
+#. Author URI of the plugin
+msgid "http://abhayyadav.com"
+msgstr "http://abhayyadav.com"
